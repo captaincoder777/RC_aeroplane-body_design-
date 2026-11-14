@@ -87,6 +87,10 @@ The power system pairs a **3S 11.1V 2200mAh 35C LiPo** (`~200 g`) with an **A221
   
 * **Kill Switch & Fail-Safe:** Programmed the FS-iA10B fail-safe so `CH3` drops immediately to **`-100%`** (motor off) if the signal drops or I flip the emergency kill switch.
 
+## Firmware & Radio Configuration
+
+This aircraft doesn't run a custom flight controller board—all channel mixing, throttle limits, and fail-safe logic run directly on the **FlySky FS-i6S** transmitter firmware paired with the **FS-iA10B** receiver (`AFHDS 2A` 10-channel PWM mode).
+
 ## Bill of Materials
 
 | Part | Details | Qty | Price |Source |
