@@ -35,7 +35,7 @@ I used **5mm Sun Board** instead of 2mm because it holds its shape much better a
 Before touching a blade to the Sun Board i modeled the full airframe in Fusion 360:
 * **Fuselage & Tail:** Sketched one side wall , mirrored it , and angled the tail base upward so the plane sits at a positive angle of attack on the ground.
 
-  <img width="291" height="354" alt="image" src="https://github.com/user-attachments/assets/4e10ae2c-a8d4-461c-91c1-9b3e07a1aafc" />
+<img width="291" height="354" alt="image" src="https://github.com/user-attachments/assets/4e10ae2c-a8d4-461c-91c1-9b3e07a1aafc" />
 
 
 <img width="807" height="508" alt="image" src="https://github.com/user-attachments/assets/fa8c6847-ab9c-4d64-9a29-069ea0adcbbf" />
@@ -48,8 +48,19 @@ Before touching a blade to the Sun Board i modeled the full airframe in Fusion 3
 
 <img width="453" height="359" alt="image" src="https://github.com/user-attachments/assets/3bdbbad8-96a3-4572-8b16-5db1de6bbcdf" />
 
-  
+
+<img width="2136" height="536" alt="image" src="https://github.com/user-attachments/assets/e97c3ac4-c153-41fc-bd3b-ff89e964cd00" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/187b986f-ca5e-4a3f-bc14-361680ba539d" />
+
+
 * **Custom 3D-Printed Parts:** Downloaded control horn STLs kept failing on two different printers, so I designed my own flat-base clip-on horns and motor firewall mount from scratch in Fusion 360.
+
+# Original design
+
+<img width="909" height="672" alt="image" src="https://github.com/user-attachments/assets/1231c866-5a53-4392-841e-14b8b89c9f27" />
+
+
 
 # Full CAD assembly along with Electronics
 
@@ -119,10 +130,10 @@ Every test session showed me  something I missed on the workbench:
 
 # Test videos
 
-* **First crash: ** https://youtube.com/shorts/VGiG9RxfIqw?feature=share
-* **Second crash: ** https://youtu.be/t4nsS9l1lS4
+* First crash: https://youtube.com/shorts/VGiG9RxfIqw?feature=share
+* Second crash: https://youtu.be/t4nsS9l1lS4
 
 ## Tools & Resources Used
-* * **Autodesk Fusion 360** — Airframe CAD, custom motor mount, and clip-on control horns
-* * **[GrabCAD](https://grabcad.com/library)** - CAD electronic models for full CAD assembly
-* * **Hack Club Forge** — Build documentation and dev log tracking
+*  **Autodesk Fusion 360** — Airframe CAD, custom motor mount, and clip-on control horns
+*  **[GrabCAD](https://grabcad.com/library)** - CAD electronic models for full CAD assembly
+*  **Hack Club Forge** — Build documentation and dev log tracking
